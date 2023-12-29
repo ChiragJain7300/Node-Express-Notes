@@ -1,0 +1,14 @@
+/* font-family: 'Hedvig Letters Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto Mono', monospace; */
+
+* {
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+}
+body {
+  background-color: aliceblue;
+}
+.form-body {
+  background-color: white;
+}

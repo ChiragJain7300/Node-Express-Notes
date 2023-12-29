@@ -1,0 +1,2 @@
+JavaScript is synchronous which means the JSEngine executes the code sequentially, one line at a time from top to bottom in the exact order of statements.
+
